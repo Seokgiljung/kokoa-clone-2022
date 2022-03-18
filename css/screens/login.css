@@ -48,3 +48,7 @@
   color: inherit;
   font-size: 13px;
 }
+
+.main-loginscreen .login__status-bar {
+  transform: translateY(-100px);
+}
